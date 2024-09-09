@@ -443,7 +443,7 @@ main {
 
 .social-item .social-link {
   color: var(--light-gray-70);
-  font-size: 18px;
+  font-size: 40px;
 }
 
 
@@ -1885,4 +1885,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 .imgRoad{
   width: 90%;
+}
+
+.icono{
+  width: 15%;
+  margin-left: 20%;
 }
