@@ -1885,9 +1885,14 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 .imgRoad{
   width: 90%;
+  mask-image: linear-gradient(black 70%,transparent);
 }
 
 .icono{
   width: 15%;
   margin-left: 20%;
+}
+.trabajandoIMG{
+  width:80%;
+  mask-image: linear-gradient(black 70%,transparent);
 }
