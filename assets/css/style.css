@@ -1896,3 +1896,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   width:80%;
   mask-image: linear-gradient(black 70%,transparent);
 }
+.robotGIF{
+  width: 70%;
+}
